@@ -1,10 +1,12 @@
-# Myorder UI
+# Angular 10 Material UI
+
+Please watch video: angular-material-table.mp4 for application running on localhost:4000
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
 
-## Node Module Setup 
+## Node Module Setup
 Open terminal and install the node components:
-npm ins tall
+npm install
 
 ## Development server
 
@@ -19,7 +21,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
 ## Build Server-Side Rendering
-Run npm run build:ssr && npm run serve:ssr 
+Run npm run build:ssr && npm run serve:ssr
 for build server. The build artifacts will be stored in the dist/ directory. Navigate to http://localhost:4000
 
 ## Running unit tests
@@ -35,4 +37,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor]
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
 

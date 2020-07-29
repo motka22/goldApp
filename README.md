@@ -1,6 +1,7 @@
 # Angular 10 Material UI
 
-Please watch video: angular-material-table.mp4 for application running on localhost:4000
+# Please watch video: angular-material-table.mp4 for application running
+# on localhost:4000
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
 
